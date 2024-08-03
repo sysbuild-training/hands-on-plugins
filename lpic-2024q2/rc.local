@@ -1,0 +1,5 @@
+#!/bin/sh
+
+printf "==> rc.local script runs.\n\n"
+
+exit 0
